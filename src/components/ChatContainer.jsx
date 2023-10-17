@@ -124,6 +124,7 @@ const Container = styled.div`
     padding: 0 2rem;
     .user-details {
       display: flex;
+      padding-top: 2rem;
       align-items: center;
       gap: 1rem;
       .avatar {

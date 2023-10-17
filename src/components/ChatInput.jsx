@@ -51,6 +51,7 @@ export default function ChatInput({ handleSendMsg }) {
 const Container = styled.div`
   display: grid;
   align-items: center;
+  padding-bottom: 2rem;
   grid-template-columns: 5% 95%;
   background-color: #080420;
   padding: 0 2rem;
