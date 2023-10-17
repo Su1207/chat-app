@@ -140,6 +140,7 @@ const Container = styled.div`
     }
   }
   .chat-messages {
+    margin-top: 1rem;
     padding: 1rem 2rem;
     display: flex;
     flex-direction: column;
